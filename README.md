@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nate.
+- 👋 Hi, I’m Nick.
 - 👀 I’m interested in computing.
 - 🌱 I’m currently learning applications.
 - 💞️ I’m looking to collaborate on blockchain.
