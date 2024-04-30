@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Nathan.
+- 👋 Hi, I’m Nathanael.
 - 👀 I’m interested in computers.
 - 🌱 I’m currently learning web applications, mobile applications and web servers.
 - 💞️ I’m looking to collaborate on architecting projects.
-- 📫 How to reach me (?)
+- 📫 How to reach me - Github
 
 <!---
 Nickstrontium/Nickstrontium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
