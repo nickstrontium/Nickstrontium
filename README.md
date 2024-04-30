@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nathanael.
+- 👋 Hi, I’m Nick.
 - 👀 I’m interested in computers.
 - 🌱 I’m currently learning web applications, mobile applications and web servers.
 - 💞️ I’m looking to collaborate on architecting projects.
